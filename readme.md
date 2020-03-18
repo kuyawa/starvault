@@ -12,7 +12,7 @@
 - Secure offline transaction signing
 - QR code communication only, totally unplugged
 
-Timeline:
+**Timeline:**
 
 - APR 2020: Unplugged app
 - MAY 2020: Public app
