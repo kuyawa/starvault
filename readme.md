@@ -1,12 +1,12 @@
-*Image header:* 
+**Image header:** ![banner.png]()
 
-*Project Title:* StarVault
+**Project Title:** StarVault
 
-*Summary:* Unplugged mobile vault for Stellar.
+**Summary:** Unplugged mobile vault for Stellar.
 
-*Category:* Applications
+**Category:** Applications
 
-*Goals:* 
+**Goals:** 
 
 - Protect your Stellar investments
 - Secure offline transaction signing
@@ -17,7 +17,7 @@ Timeline:
 - Unplugged app 
 - Public app
 
-*Description:* 
+**Description:** 
 
 StarVault is an unplugged mobile app used as a vault for your Stellar stash. Installed in an old phone without internet connection it will allow you to create transactions and transmit them as QR codes so a live app can send them to the network, making expensive hardware wallets obsolete and keeping your lumens safe and secure.
 
@@ -27,6 +27,6 @@ StarVault is unplugged, unhackable, unbreakable and impossible to penetrate from
 
 Stop wasting hundreds of dollars on hardware wallets than are a pain to use and can fail miserably leaving you with thousands more in losses and a constant worry about somebody stealing your investments. Invest safe, use StarVault.
 
-*Links:* https://github.com/kuyawa/StarVault
+**Links:** https://github.com/kuyawa/starvault
 
-*Tags:* vault, security, ios
+**Tags:** vault, security, ios
