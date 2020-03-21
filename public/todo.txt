@@ -1,0 +1,6 @@
+Starvault public app
+
+TODO:
+
+- App icon
+- 
